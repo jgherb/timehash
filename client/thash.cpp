@@ -1,6 +1,8 @@
 /*
 * TimeHash (thash)
 * www.noscio.ml/timehash
+* Compile with g++: 'g++ thash.cpp -o thash -lboost_system -lpthread -O3'
+* Required: boost
 * @author: Julius Herb (noscio@web.de)
 * @version: 1.0 (2016_01_05)
 */
