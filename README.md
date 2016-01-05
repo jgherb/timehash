@@ -6,7 +6,7 @@ Dar&uuml;ber hinaus bietet TimeHash auch die M&ouml;glichkeit, mit Hilfe der zus
 sich als Eigent&uuml;mer der Datei validieren.<br>
 
 TimeHash ist als Server-Software in PHP geschrieben und enth&auml;lt 3 Frontend-Skripte ('create.php', 'whois.php' und 'validate.php').<br>
-Als Speicherort kann entweder eine MySQL-Datenbank (bei großen Datenmengen aufgrund der h&ouml;heren Effizienz empfohlen) oder eine Datei verwendet eingestellt.<br>
+Als Speicherort kann entweder eine MySQL-Datenbank (bei großen Datenmengen aufgrund der h&ouml;heren Effizienz empfohlen) oder eine Datei verwendet werden.<br>
 Die Software ist OpenSource und ist auf <a href="https://github.com/jgherb/timehash/">GitHub</a> vertreten.<br>
 <br>
 Außerdem ist TimeHash als Desktop-Software in C++ geschrieben und enthält die Funktionen, die auch die Standard-Hash-Software unter Linux 'md5sum' beinhaltet.<br>
